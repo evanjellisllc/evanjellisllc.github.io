@@ -1,3 +1,3 @@
-# Evan J. Ellis LLC
+# Evan J. Ellis
 
-Contact me at **evan@evanjellis.com**.
+I provide software development and consulting services. Contact me at **evan@evanjellis.com**.
